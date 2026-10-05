@@ -1,0 +1,13 @@
+
+main
+main-tests
+leak-checker
+
+results*.json
+grader-output-readme/
+
+*~
+*.swp
+*.o
+*.gch
+

@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "fall-2026-cpsc-131-data-structures"
+assignment: "project-1-my-vector"
+secret: "5u387hif"
+owner:
+  username: "jzabl25"
+  id: 230266366
+  accepted_at: "2026-09-23T20:59:08Z"
+source:
+  owner: "2026-fall-csuf-puhp-cpsc-131"
+  owner_id: 319222813
+  repo: "project-1-myvector-starter"
+  branch: "master"
